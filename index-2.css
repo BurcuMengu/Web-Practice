@@ -47,8 +47,14 @@ th, td {
     padding: 10px;
     flex-direction: row;
 }
-
+/*
 .container-two > * {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}*/
+
+.container-two {
     display: flex;
     flex-direction: row;
     gap: 30px;
