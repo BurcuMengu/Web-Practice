@@ -27,6 +27,11 @@ body {
     background-color: #E4E4E4;
 }
 
+#click {
+    border-style: groove;
+    border-color: black;
+}
+
 table, th, td {
     border: 1px groove #E4E4E4;
     border-collapse: collapse;
